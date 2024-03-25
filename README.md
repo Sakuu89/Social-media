@@ -33,7 +33,9 @@ To get started with the project, follow these steps:
    node index
    ```
 
-   The server will start running on the specified port.
+   The server will start running on the port 4001.
+   Try to run on localhost - http://localhost:4001/graphql
+   
 
 ## Directory Structure
 
